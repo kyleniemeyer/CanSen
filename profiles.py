@@ -1,4 +1,5 @@
 # Standard libraries
+from __future__ import print_function, division
 import sys
 
 # Related modules
